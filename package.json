@@ -1,0 +1,15 @@
+{
+  "name": "wetherapp",
+  "version": "1.0.0",
+  "description": "NodeJS app for real time wether detection using real time API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shankar Kamble",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {}
+}
